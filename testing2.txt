@@ -1,3 +1,8 @@
 <?php 
 echo phpinfo(); 
+
+// i have change some text here for git testing
+
+
+//change some text for amend.
 ?>
